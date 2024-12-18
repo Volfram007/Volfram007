@@ -24,3 +24,8 @@
 <h3><pre>📫 Мои контакты</pre></h3>
 
 - [Email](mailto:alem.mail@yandex.ru)
+
+  <a href="https://t.me/proAleM">
+  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" alt="telegram logo" />
+  </a>
+
